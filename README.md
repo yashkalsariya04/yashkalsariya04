@@ -1,4 +1,4 @@
-# 💫 About Me: I’m solve real-world problem with using Technology.
+# 💫 About Me:
 I am studying at SAL Institute of Technology and Engineering Research, pursuing a Bachelor's degree in Computer Engineering. I am passionate about programming and always eager to learn new skills and technologies. I participate in hackathons and online programming challenges to enhance my problem-solving and coding abilities. I also enjoy mentoring and sharing my knowledge with others who are interested in software development.
 
 
